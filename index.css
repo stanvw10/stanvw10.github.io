@@ -1,0 +1,17 @@
+footer{
+    background-color: #1a1a1a;
+    color: #a6a6a6;
+    margin-top: 20px;
+  }
+
+body{
+  background-color: gray;
+}
+
+.container{
+  background: white;
+}
+
+.jumbotron{
+  margin-bottom: 0px;
+}
